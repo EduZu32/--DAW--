@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ae4a373-46f0-4987-95f0-27609c5fae46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Biblioteca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LombokLibreria/src/main/java/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/Dudas1203.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/Programable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/TareaFamiliar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/TareaTrabajo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/TareaTrabajoPrimaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T7/Dudas1203/src/TareaTrabajoSecundaia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anidadas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Terreno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/libraries/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/Trabajadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/controller/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Accionista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Asalariado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Jefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Puesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Responsables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabajadores/src/model/Trabajador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Biblioteca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Biblioteca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concesionario/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concesionario/src/Entrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concesionario/src/controller/Concesionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concesionario/src/controller/Concesionario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2g0GL1HYQXzraztT4ZFebpjo3D9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ae4a373-46f0-4987-95f0-27609c5fae46" name="Changes" comment="" />
+      <created>1714827023106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714827023106</updated>
+    </task>
+    <servers />
+  </component>
+</project>
